@@ -1,0 +1,1 @@
+使用mybatis结合impala进行查询新增，由于impala无法删除和修改，删除修改另外结合kudu在其他工程做，详见https://github.com/fjlxq1994/kudu-mybatis.git
