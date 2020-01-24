@@ -1,7 +1,7 @@
 spring:
   datasource:
     driver-class-name: com.cloudera.impala.jdbc41.Driver
-    url: jdbc:impala://172.33.60.131:21050
+    url: jdbc:impala://172.33.60.131:21050/default
     username:
     password:
 mybatis:
